@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vera\\Desktop\\TrueCoders\\repos\\BankEncapsulationExercise\\BankEncapsulationExercise\\BankEncapsulationExercise.csproj",
+      "projectUniqueName": "C:\\Users\\Vera\\Desktop\\TrueCoders\\repos\\Module 3\\BankEncapsulationExercise\\BankEncapsulationExercise\\BankEncapsulationExercise.csproj",
       "projectName": "BankEncapsulationExercise",
-      "projectPath": "C:\\Users\\Vera\\Desktop\\TrueCoders\\repos\\BankEncapsulationExercise\\BankEncapsulationExercise\\BankEncapsulationExercise.csproj",
+      "projectPath": "C:\\Users\\Vera\\Desktop\\TrueCoders\\repos\\Module 3\\BankEncapsulationExercise\\BankEncapsulationExercise\\BankEncapsulationExercise.csproj",
       "packagesPath": "C:\\Users\\Vera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vera\\Desktop\\TrueCoders\\repos\\BankEncapsulationExercise\\BankEncapsulationExercise\\obj\\",
+      "outputPath": "C:\\Users\\Vera\\Desktop\\TrueCoders\\repos\\Module 3\\BankEncapsulationExercise\\BankEncapsulationExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vera\\AppData\\Roaming\\NuGet\\NuGet.Config",
